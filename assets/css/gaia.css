@@ -983,7 +983,7 @@ a,
 }
 .section .title-area .description {
   font-size: 16px;
-  color: #777777;
+  color: #212529;
 }
 .section [class*="col-"] .title-area {
   padding: 0;
@@ -2483,6 +2483,9 @@ a,
 .section-header-freebie,
 .section-our-team-freebie {
   padding-bottom: 0;
+  background: #fdcc52;
+  background: -webkit-linear-gradient(#fdcc52,#fdc539);
+  background: linear-gradient(#fdcc52,#fdc539);
 }
 .section-get-started .container,
 .section-header-freebie .container,
