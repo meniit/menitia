@@ -953,6 +953,10 @@ a,
   background-color: #FFFFFF;
 }
 
+.section.section-our-clients-freebie {
+    padding: 50px 0;
+}
+
 .section-gray {
   background-color: #EEEEEE;
   padding: 70px 0;
