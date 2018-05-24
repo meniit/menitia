@@ -962,7 +962,7 @@ a,
 }
 
 .row {
-    margin: 50px;
+    margin: 50px !important;
 }
 
 .section-gray {
