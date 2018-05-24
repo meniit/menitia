@@ -961,8 +961,8 @@ a,
     padding: 50px 0;
 }
 
-.row.srv {
-    padding-top: 50px;
+.row {
+    margin: 50px;
 }
 
 .section-gray {
