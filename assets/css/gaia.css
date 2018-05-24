@@ -13,6 +13,26 @@
  * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
  */
 
+
+
+
+/* New Updated css code */
+a.btn.btn-outline.btn-xl.js-scroll-trigger {
+    color: #fff;
+    border: 1px solid;
+    border-color: #fff;
+    font-size: 11px;
+    padding: 15px 45px;
+    border-radius: 300px;
+    font-family: Lato,Helvetica,Arial,sans-serif;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+
+
+
+
 /*      light colors         */
 html {
   font-size: 14px;
