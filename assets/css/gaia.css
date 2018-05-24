@@ -2630,7 +2630,7 @@ a,
 
 .section-our-team-freebie .container {
   margin-top: 6vh;
-  margin-bottom: 50px;
+  /* margin-bottom: 50px; */
 }
 
 .card p {
