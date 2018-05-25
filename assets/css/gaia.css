@@ -258,7 +258,7 @@ a:hover {
   width: 40%;
   content: " ";
   margin-top: 10px;
-  border: 1px solid #8a6d3b;
+  border: 1px solid #333333a3;
 }
 .separator:before {
   float: left;
@@ -997,7 +997,7 @@ a,
 }
 
 .separator.separator-dangerwwd {
-    color: #e78b90;
+    color: #333;
 }
 
 .section {
