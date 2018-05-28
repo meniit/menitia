@@ -1024,6 +1024,31 @@ a,
     background-color: #fdcc52;
 }
 
+ul.chgclr {
+    color: #828282;
+    font-size: 14px;
+}
+
+ul.chgclr:hover {
+    color: #ffffff;
+    font-size: 14px;
+}
+
+a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+.btn-rm {
+    color: #1a1414;
+    border: 1px solid;
+    border-color: #1a1414;
+}
+
+.btn-xl {
+    font-size: 11px;
+    padding: 15px 45px;
+}
 .section {
   position: relative;
 }
