@@ -29,8 +29,9 @@ a.btn.btn-outline.btn-xl.js-scroll-trigger {
     text-transform: uppercase;
 }
 
-
-
+.material-icons {
+  font-size: 100px!important;
+}
 
 
 /*      light colors         */
